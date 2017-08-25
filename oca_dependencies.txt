@@ -1,1 +1,1 @@
-odoo-extra https://github.com/Elico-Corp/odoo-extra master
+odoo-extra https://github.com/Elico-Corp/odoo-extra master-docker-compliant
